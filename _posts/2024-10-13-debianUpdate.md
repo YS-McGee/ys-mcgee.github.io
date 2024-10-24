@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Debian Update Script
 date: 2024-10-13
 categories: [linux,admin]
